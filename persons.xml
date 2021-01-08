@@ -1,0 +1,73 @@
+<object-stream>
+  <list>
+    <Member>
+      <name>XY</name>
+      <email>xy@wit.ie</email>
+      <address>Alphabet Row</address>
+      <gender>Gender Unspecified </gender>
+      <height>1.7000000476837158</height>
+      <startWeight>56.0</startWeight>
+      <chosenPackage>Package 3</chosenPackage>
+      <assessmentHashMap>
+        <entry>
+          <string>20/06/06</string>
+          <Assessment>
+            <weight>55.0</weight>
+            <waist>50.0</waist>
+            <thigh>50.0</thigh>
+            <chest>0.0</chest>
+            <date>20/06/06</date>
+            <trainer></trainer>
+            <comment>50</comment>
+          </Assessment>
+        </entry>
+      </assessmentHashMap>
+    </Member>
+    <PremiumMember>
+      <name>Gary Houston</name>
+      <email>gh@wit.ie</email>
+      <address>Home Road</address>
+      <gender>Gender Unspecified </gender>
+      <height>1.7999999523162842</height>
+      <startWeight>87.0</startWeight>
+      <chosenPackage>Package 2</chosenPackage>
+      <assessmentHashMap>
+        <entry>
+          <string>20/06/06</string>
+          <Assessment>
+            <weight>85.0</weight>
+            <waist>55.0</waist>
+            <thigh>110.0</thigh>
+            <chest>0.0</chest>
+            <date>20/06/06</date>
+            <trainer></trainer>
+            <comment>Great Work</comment>
+          </Assessment>
+        </entry>
+      </assessmentHashMap>
+    </PremiumMember>
+  </list>
+  <list>
+    <Trainer>
+      <name>Brian OD</name>
+      <email>bod@god.ie</email>
+      <address>Dublin 4</address>
+      <gender>M</gender>
+      <speciality>Rugby</speciality>
+    </Trainer>
+    <Trainer>
+      <name>Gini W</name>
+      <email>gini@lfc.com</email>
+      <address>Cheshire UK</address>
+      <gender>M</gender>
+      <speciality>Football</speciality>
+    </Trainer>
+    <Trainer>
+      <name>Jurgen K</name>
+      <email>kloop@lfc.com</email>
+      <address>Cheshire UK</address>
+      <gender>M</gender>
+      <speciality>Hugging High Fives</speciality>
+    </Trainer>
+  </list>
+</object-stream>
