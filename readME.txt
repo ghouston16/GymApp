@@ -15,4 +15,6 @@ Member and Trainer logins.
 
 Track fitness progress based on given metrics recorded as Assessments.
 
-Basic analytics performed based on Assessment metrics.
+Separate user and trainer menus/sub-menus.
+
+Basic analytics performed based on Assessment metrics these analytics include member BMI.
